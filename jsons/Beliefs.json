@@ -81,7 +81,7 @@
     {
         "name": "Sacred River",
         "type": "Pantheon",
-        "uniques": ["[+4 Faith, +2 Culture] from every [Natural Wonder]", "[+1 Culture] from [River] tiles [in all cities following this religion]"]
+        "uniques": ["[+4 Faith, +2 Culture] from every [Natural Wonder]", "[+1 Culture] from every [River]"]
     },
     {
         "name": "Oral Tradition",
