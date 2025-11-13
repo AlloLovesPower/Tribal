@@ -123,3 +123,10 @@ ReligionIcons/Zoroastrianism
   orig: 100, 100
   offset: 0, 0
   index: -1
+ReligionIcons/Wuv
+  rotate: false
+  xy: 1624, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
