@@ -870,7 +870,7 @@
    {
 		"name": "Origin Maker",
 		"unitType": "Civilian",
-		"uniques": ["Founds a new city <by consuming this unit>",
+		"uniques": ["Founds a new city <by consuming this unit>"],
 		"movement": 2
 	},
 	{
