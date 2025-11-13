@@ -41,6 +41,38 @@
           {"text": "Alexander the Great, born in Macedon, was one of the most skilled generals, even more by his young age, and in only 17 years he conquered all the Greek known world."}
       ]
   },*/
+  
+  
+  
+  {
+    "name": "Wittle Wuv",
+    "production": 6,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 6,
+    "military": 5,
+    "aggressive": 1,
+    "declareWar": 1,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 9,
+    "expansion": 4,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 5,
+      "Honor": 4,
+      "Commerce": 5,
+      "Patronage": 5,
+      "Piety": 6,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 4,
+      "Order": 7
+    }
+  },
   {
     "name": "Ahmad al-Mansur",
     "production": 6,

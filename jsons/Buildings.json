@@ -156,17 +156,6 @@
 		"uniques": ["Destroyed when the city is captured"]
 	},
 	{
-		"name": "Walls of Babylon",
-		"replaces": "Walls",
-		"cost": 65,
-		"uniqueTo": "Babylon",
-		"cityStrength": 6,
-		"cityHealth": 100,
-		"hurryCostModifier": 25,
-		"requiredTech": "Masonry",
-		"uniques": ["Destroyed when the city is captured"]
-	},
-	{
 		"name": "The Pyramids",
 		"culture": 1,
 		"greatPersonPoints": {"Great Engineer": 1},
