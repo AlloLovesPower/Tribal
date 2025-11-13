@@ -15,9 +15,17 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"cost": 106,
-		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+		"uniques": ["Founds a new city <by consuming this unit>",
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
+	},
+    	{
+		"name": "Explorer",
+		"unitType": "Civilian",
+		"uniqueTo": "Dragon Domain",
+		"replaces": "Settler",
+		"movement": 3,
+		"cost": 40,
 	},
 	{
 		"name": "Scout",
@@ -859,7 +867,12 @@
 	},
 
 	/* Great people */
-
+   {
+		"name": "Origin Maker",
+		"unitType": "Civilian",
+		"uniques": ["Founds a new city <by consuming this unit>",
+		"movement": 2
+	},
 	{
 		"name": "Great Artist",
 		"unitType": "Civilian",
