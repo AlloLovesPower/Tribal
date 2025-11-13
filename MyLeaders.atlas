@@ -1,5 +1,5 @@
 
-game.png
+myleaders.png
 size: 2048, 1080
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
@@ -95,9 +95,3 @@ LeaderIcons/Hiawatha
   orig: 360, 360
   offset: 0, 0
   index: -1
-
-
-  
-  
-
-  
