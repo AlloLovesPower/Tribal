@@ -19,14 +19,6 @@
 			"Requires at least [2] population"],
 		"hurryCostModifier": 20
 	},
-    	{
-		"name": "Explorer",
-		"unitType": "Civilian",
-		"uniqueTo": "Dragon Domain",
-		"replaces": "Settler",
-		"movement": 3,
-		"cost": 40,
-	},
 	{
 		"name": "Scout",
 		"unitType": "Scout",
@@ -870,7 +862,9 @@
    {
 		"name": "Origin Maker",
 		"unitType": "Civilian",
-		"uniques": ["Founds a new city <by consuming this unit>"],
+        "replaces": "Settler",
+        "uniqueTo": "Dragon Domain",
+		"uniques": ["Founds a new city <by consuming this unit>","Unbuildable"],
 		"movement": 2
 	},
 	{
