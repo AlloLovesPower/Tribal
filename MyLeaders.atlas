@@ -4,7 +4,7 @@ size: 2048, 1080
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-LeaderIcons/Boudicca
+LeaderIcons/Starlight
   rotate: false
   xy: 0, 0
   size: 360, 360
@@ -18,77 +18,77 @@ LeaderIcons/Wittle Wuv
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Darius I
+LeaderIcons/Bask
   rotate: false
   xy: 720, 0
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Dido
+LeaderIcons/Versia
   rotate: false
   xy: 1080, 0
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Elizabeth
+LeaderIcons/Conquest
   rotate: false
   xy: 1440, 0
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Gandhi
+LeaderIcons/Lek
   rotate: false
   xy: 0, 360
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Genghis Khan
+LeaderIcons/Brame
   rotate: false
   xy: 360, 360
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/George Washington
+LeaderIcons/Dancer
   rotate: false
   xy: 720, 360
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Gustavus Adolphus
+LeaderIcons/Meeba
   rotate: false
   xy: 1080, 360
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Haile Selassie
+LeaderIcons/Witch
   rotate: false
   xy: 1440, 360
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Harald Bluetooth
+LeaderIcons/Ulta
   rotate: false
   xy: 0, 720
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Harun al-Rashid
+LeaderIcons/Enu Skyfeather
   rotate: false
   xy: 360, 720
   size: 360, 360
   orig: 360, 360
   offset: 0, 0
   index: -1
-LeaderIcons/Hiawatha
+LeaderIcons/Ish
   rotate: false
   xy: 720, 720
   size: 360, 360
