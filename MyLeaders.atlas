@@ -1,0 +1,103 @@
+
+game.png
+size: 2048, 1080
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+LeaderIcons/Boudicca
+  rotate: false
+  xy: 0, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Catherine
+  rotate: false
+  xy: 360, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Darius I
+  rotate: false
+  xy: 720, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Dido
+  rotate: false
+  xy: 1080, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Elizabeth
+  rotate: false
+  xy: 1440, 0
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gandhi
+  rotate: false
+  xy: 0, 360
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Genghis Khan
+  rotate: false
+  xy: 360, 360
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/George Washington
+  rotate: false
+  xy: 720, 360
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Gustavus Adolphus
+  rotate: false
+  xy: 1080, 360
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Haile Selassie
+  rotate: false
+  xy: 1440, 360
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harald Bluetooth
+  rotate: false
+  xy: 0, 720
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Harun al-Rashid
+  rotate: false
+  xy: 360, 720
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+LeaderIcons/Hiawatha
+  rotate: false
+  xy: 720, 720
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+
+
+  
+  
+
+  
