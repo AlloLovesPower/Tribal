@@ -98,8 +98,8 @@
 
 		"tradeRequest": "meow! meowmeow meow!",
 
-		"outerColor": [93,130,79],
-		"innerColor": [217,201,124],
+		"outerColor": [176,237,255],
+		"innerColor": [231,191,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -200,8 +200,8 @@
 
 		"tradeRequest": "meow! meowmeow meow!",
 
-		"outerColor": [93,130,79],
-		"innerColor": [217,201,124],
+		"outerColor": [19,22,207],
+		"innerColor": [235,21,217],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
