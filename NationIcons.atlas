@@ -1,103 +1,96 @@
 
 NationIcons.png
-size: 2048, 720
+size: 2048, 100
 format: RGBA8888
 filter: MipMapLinearLinear, Linear
 repeat: none
-NationIcons/Dragon Domain
+NationIcons/Aerie
   rotate: false
   xy: 0, 0
-  size: 360, 360
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Cult of Abyssal Power
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Dragon Domain
+  rotate: false
+  xy: 200, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Elava Coven
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Everfree
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Genetica
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Sanctuary
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Starra
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Techni
+  rotate: false
+  xy: 0, 0
+  size: 800, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Deep Forest
+  rotate: false
+  xy: 900, 0
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Underworld
   rotate: false
-  xy: 360, 0
-  size: 360, 360
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryScreenIcons/Charts
-  rotate: false
-  xy: 775, 401
+  xy: 1000, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-VictoryScreenIcons/Demographics
+NationIcons/Unity
   rotate: false
-  xy: 1207, 401
+  xy: 1100, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-VictoryScreenIcons/Rankings
+NationIcons/Wuv
   rotate: false
-  xy: 1207, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryScreenIcons/Global
-  rotate: false
-  xy: 4, 4
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-VictoryScreenIcons/Illustration
-  rotate: false
-  xy: 112, 62
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryScreenIcons/OurStatus
-  rotate: false
-  xy: 328, 77
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryScreenIcons/Replay
-  rotate: false
-  xy: 544, 185
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryTypeIcons/Cultural
-  rotate: false
-  xy: 1099, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryTypeIcons/Diplomatic
-  rotate: false
-  xy: 1423, 401
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryTypeIcons/Domination
-  rotate: false
-  xy: 4, 386
-  size: 115, 115
-  orig: 115, 115
-  offset: 0, 0
-  index: -1
-VictoryTypeIcons/Scientific
-  rotate: false
-  xy: 652, 185
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-VictoryTypeIcons/Time
-  rotate: false
-  xy: 1084, 293
+  xy: 1200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
