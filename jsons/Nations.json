@@ -64,11 +64,11 @@
 
 		"tradeRequest": "meow! meowmeow meow!",
 
-		"outerColor": [93,130,79],
-		"innerColor": [217,201,124],
-		"favoredReligion": "Wuv",
+		"outerColor": [37,51,44],
+		"innerColor": [61,10,20],
+		"favoredReligion": "Crimson Sky",
 		"uniqueName": "Wuv",
-		"uniques": ["Gain control over [12] tiles [in this city] <upon founding a city>", "[+1 Food] per [1] population [in all cities]", "City-State territory always counts as friendly territory"],
+		"uniques": ["Gain control over [12] tiles [in this city] <upon founding a city>", "[+1 Food, +1 Happiness] per [1] population [in all cities]", "City-State territory always counts as friendly territory"],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
 			"Agave","Moon","Light","Ahimsa","Kindness","Loves","Hue","Nontana","Pearadice","Nuzzle",
 			"Fuzzywumpkin","Doinklehauser","Lay","Relax","Relaxius Beta","True","Ever","Beautiful","Best","Bestest",
@@ -370,9 +370,9 @@
 
 		"tradeRequest": "meow! meowmeow meow!",
 
-		"outerColor": [93,130,79],
-		"innerColor": [217,201,124],
-		"favoredReligion": "Wuv",
+		"outerColor": [80,32,115],
+		"innerColor": [15,9,31],
+		"favoredReligion": "Underlay",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": ["Wuvtopia","Paradise","Treeple","Mom","Moople","Norple","Varjuvlius","Yay","Soup","BetterSoup",
