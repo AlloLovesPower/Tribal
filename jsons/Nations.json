@@ -31,7 +31,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [93,130,79],
-		"innerColor": [217,201,124],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Unable to capture cities"],
@@ -65,7 +65,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [41,4,14],
-		"innerColor": [140,219,156],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Crimson Sky",
 		"uniqueName": "Wuv",
 		"uniques": ["Gain control over [12] tiles [in this city] <upon founding a city>", "[+1 Food, +1 Happiness] per [1] population [in all cities]", "City-State territory always counts as friendly territory"],
@@ -99,7 +99,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [70,31,148],
-		"innerColor": [242,255,140],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -133,7 +133,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [6,43,12],
-		"innerColor": [153,242,168],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -167,7 +167,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [92,85,28],
-		"innerColor": [163,171,173],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -201,7 +201,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [19,22,207],
-		"innerColor": [235,21,217],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -235,7 +235,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [70,13,128],
-		"innerColor": [234,255,171],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -269,7 +269,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [8,133,12],
-		"innerColor": [255,207,230],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -303,7 +303,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [83,122,120],
-		"innerColor": [145,148,237],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -337,7 +337,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [184,29,245],
-		"innerColor": [22,222,159],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -371,7 +371,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [29,6,46],
-		"innerColor": [206,195,227],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Underlay",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -405,7 +405,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [39,173,207],
-		"innerColor": [213,245,198],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
@@ -439,7 +439,7 @@
 		"tradeRequest": "meow! meowmeow meow!",
 
 		"outerColor": [252,5,5],
-		"innerColor": [242,230,184],
+		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
 		"uniqueName": "Wuv",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster"],
