@@ -62,8 +62,8 @@ NationIcons/Starra
   index: -1
 NationIcons/Techni
   rotate: false
-  xy: 0, 0
-  size: 800, 100
+  xy: 800, 0
+  size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
@@ -88,7 +88,7 @@ NationIcons/Unity
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Wuv
+NationIcons/Wuvlets
   rotate: false
   xy: 1200, 0
   size: 100, 100
