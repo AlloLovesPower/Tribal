@@ -1,0 +1,19 @@
+MyCities.png
+size: 2048, 109
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+TileSets/FantasyHex/Tiles/City center-Dragon Domain
+  rotate: false
+  xy: 0, 109
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/City center-Underworld
+  rotate: false
+  xy: 120, 109
+  size: 120, 109
+  orig: 120, 109
+  offset: 0, 0
+  index: -1
