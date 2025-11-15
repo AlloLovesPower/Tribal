@@ -14,7 +14,7 @@
 		"leaderName": "Wittle Wuv",
 		"adjective": ["Wuvlian"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Diplomatic",
+		"preferredVictoryType": "Cultural",
 		"personality": "Wittle Wuv",
 
 		"startIntroPart1": "meow",
