@@ -29,7 +29,7 @@
 		"hateHello": "meow",
         
 		"tradeRequest": "meow! meowmeow meow!",
-
+        "styleName": "WuvletsStyle",
 		"outerColor": [93,130,79],
 		"innerColor": [255,255,255],
 		"favoredReligion": "Wuv",
@@ -50,7 +50,7 @@
 		"startBias": ["[Light Forest]","[Dense Forest]","[Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Versia",
-
+        "styleName": "DragonDomainStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -84,7 +84,7 @@
 		"startBias": ["Avoid [Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Starlight",
-
+        "styleName": "EverfreeStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -118,7 +118,7 @@
 		"startBias": ["[Dense Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Bask",
-
+        "styleName": "TheDeepForestStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -154,7 +154,7 @@
 		"startBias": ["[Plains]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Lek",
-
+        "styleName": "TechniStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -188,7 +188,7 @@
 		"startBias": ["Avoid [Dense Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "UnityStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -222,7 +222,7 @@
 		"startBias": ["[Grassland]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+         "styleName": "StarraStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -257,7 +257,7 @@
 		"startBias": ["[Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "SanctuaryStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -291,7 +291,7 @@
 		"startBias": ["[Light Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "GeneticaStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -325,7 +325,7 @@
 		"startBias": ["Avoid [Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "ElavaCovenStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -359,7 +359,7 @@
 		"startBias": ["Avoid [Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "UnderworldStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -393,7 +393,7 @@
 		"startBias": ["[Plains]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "AerieStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
@@ -427,7 +427,7 @@
 		"startBias": ["[Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
-
+        "styleName": "CultofAbyssalPowerStyle",
 		"startIntroPart1": "meow",
 		"startIntroPart2": "meowmeow MEOW meowmeowmeow meow",
 
