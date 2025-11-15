@@ -44,6 +44,152 @@
            /* "Considered [Food] when determining start locations <in [Hybrid] Regions>",*/
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
     },
+    	{
+		"name": "Dense Forest",
+		"type": "Land",
+		"production": 2,
+		"food": 2,
+		"movementCost": 2,
+		"defenceBonus": 0.25,
+		"uniques": ["Rough terrain", "Vegetation",
+					"Blocks line-of-sight from tiles at same elevation",
+					"A Region is formed with at least [30]% [Dense Forest] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Dense Forest] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+                	{
+		"name": "Bright Forest",
+		"type": "Land",
+		"production": 2,
+		"food": 2,
+		"movementCost": 2,
+		"defenceBonus": 0.25,
+		"uniques": ["Rough terrain", "Vegetation",
+					"Blocks line-of-sight from tiles at same elevation",
+					"A Region is formed with at least [30]% [Bright Forest] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Bright Forest] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+                	{
+		"name": "Light Forest",
+		"type": "Land",
+		"production": 1,
+		"food": 2,
+		"movementCost": 2,
+		"defenceBonus": 0.25,
+		"uniques": ["Rough terrain", "Vegetation",
+					"Blocks line-of-sight from tiles at same elevation",
+					"A Region is formed with at least [30]% [Light Forest] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Light Forest] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+                	{
+		"name": "Plains",
+		"type": "Land",
+		"food": 2,
+		"movementCost": 1,
+		"uniques": ["A Region is formed with at least [30]% [Plains] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Plains] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+                            	{
+		"name": "Snow",
+		"type": "Land",
+		"food": 1,
+		"movementCost": 1,
+		"uniques": ["A Region is formed with at least [30]% [Snow] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Snow] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+                                        	{
+		"name": "Lava",
+		"type": "Land",
+		"food": 1,
+		"movementCost": 1,
+		"uniques": ["A Region is formed with at least [30]% [Lava] tiles, with priority [3]",
+				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
+					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Lava] Regions>",
+				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
+					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
+			},
+            	{
+		"name": "Lakes",
+		"type": "Water",
+		"food": 3,
+		"gold": 1,
+		"RGB": [0, 171, 169],
+		"uniques": ["Fresh water",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+	},
+                	{
+		"name": "Lagoon",
+		"type": "Water",
+		"food": 2,
+		"gold": 1,
+		"RGB": [0, 171, 169],
+		"uniques": ["Fresh water",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+	},
+    	{
+		"name": "Mountain",
+		"type": "Land",
+		"impassable": true,
+		"defenceBonus": 0.25,
+		"RGB": [102, 102, 102],
+		"uniques": ["Rough terrain",
+            "Has an elevation of [2] for visibility calculations",
+            "Occurs in chains at high elevations",
+            "Units ending their turn on this terrain take [50] damage",
+            "Always Fertility [-2] for Map Generation",
+            "Considered [Undesirable] when determining start locations"]
+	},
+    
+    	{
+		"name": "Mystic Glade",
+		"type": "TerrainFeature",
+		"food": 3,
+		"culture": 3,
+		"movementCost": 1,
+		"unbuildable": true,
+		"defenceBonus": -0.1,
+		"occursOn": ["Dense Forest", "Bright Forest"],
+		"uniques": ["Fresh water", "Rare feature",
+					"Only [All Road] improvements may be built on this tile",
+					"Always Fertility [4] for Map Generation",
+					"Considered [Food] when determining start locations",
+					"Considered [Desirable] when determining start locations"],
+	},
+            
 /*	{
 		"name": "Plains",
 		"type": "Land",
@@ -106,37 +252,8 @@
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
-	{
-		"name": "Lakes",
-		"type": "Water",
-		"food": 2,
-		"gold": 1,
-		"RGB": [0, 171, 169],
-		"uniques": ["Fresh water",
-					"Considered [Food] when determining start locations",
-					"Considered [Desirable] when determining start locations"],
-        "civilopediaText": [
-            {"text": "Lakes provide fresh water to adjacent tiles, allowing farming where it would otherwise not be possible (similar to Rivers and Oases)."},
-            {"text": "Rivers", "link":"Terrain/River"},
-            {"text": "Oasis", "link":"Terrain/Oasis"},
-            {"text": "Farm", "link":"Improvement/Farm"},
-            {"text": "Civil Service", "link":"Technology/Civil Service"},
-            {"text": "Fertilizer", "link":"Technology/Fertilizer"}
-        ]
-	},
-	{
-		"name": "Mountain",
-		"type": "Land",
-		"impassable": true,
-		"defenceBonus": 0.25,
-		"RGB": [102, 102, 102],
-		"uniques": ["Rough terrain",
-            "Has an elevation of [2] for visibility calculations",
-            "Occurs in chains at high elevations",
-            "Units ending their turn on this terrain take [50] damage",
-            "Always Fertility [-2] for Map Generation",
-            "Considered [Undesirable] when determining start locations"]
-	},
+
+
 	{
 		"name": "Snow",
 		"type": "Land",
@@ -177,29 +294,7 @@
 					"Considered [Production] when determining start locations",
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},*/
-	{
-		"name": "Forest",
-		"type": "TerrainFeature",
-		"production": 1,
-		"food": 1,
-		"movementCost": 2,
-		"overrideStats": true,
-		"unbuildable": true,
-		"defenceBonus": 0.25,
-		"occursOn": ["Grassland"],
-		"uniques": ["Rough terrain", "Vegetation",
-					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
-					"Blocks line-of-sight from tiles at same elevation",
-					"[25]% Chance to be destroyed by nukes",
-					"A Region is formed with at least [30]% [Forest] tiles, with priority [3]",
-				/*	"A Region is formed with at least [35]% [Forest] tiles and [Jungle] tiles, with priority [3]",
-					"A Region can not contain more [Jungle] tiles than [Forest] tiles",*/
-					"Considered [Desirable] when determining start locations",
-					"Considered [Production] when determining start locations",
-					"Considered [Food] when determining start locations <in [Forest] Regions>",
-				/*	"Considered [Food] when determining start locations <in [Tundra] Regions>",*/
-					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."]
-			},
+
     /*	{
 		"name": "Old Forest",
 		"type": "TerrainFeature",
@@ -336,6 +431,103 @@
         "movementCost": 0,  // So Civilopedia won't display a cost of 1
         "uniques": ["Doesn't generate naturally", "Excluded from map editor"],
     },
+    
+    
+      	{
+		"name": "Coru Crater",
+		"type": "NaturalWonder",
+		"science": 6,
+		"production": 5,
+		"occursOn": ["Grassland","Plains"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Sazzent",
+		"type": "NaturalWonder",
+		"science": 2,
+		"happiness": 3,
+		"occursOn": ["Snow"],
+		"uniques": ["Must be adjacent to [3] to [6] [Snow] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "The Gate",
+		"type": "NaturalWonder",
+		"science": 8,
+		"culture": 3,
+		"occursOn": ["Grassland","Plains","Lakes","Mountain"],
+        "uniques": ["[+2 Science] [in all cities]"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Sunlight Refuge",
+		"type": "NaturalWonder",
+		"culture": 2,
+		"happiness": 8,
+		"occursOn": ["Grassland","Plains"],
+		"uniques": ["Must be adjacent to [1] [Grassland] tiles",
+			"Must be adjacent to [2] to [4] [Plains] tiles",
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Temple of Liska",
+		"type": "NaturalWonder",
+		"culture": 9,
+		"occursOn": ["Plains"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Holy Sen",
+		"type": "NaturalWonder",
+		"culture": 5,
+		"happiness": 5,
+        "food": 12,
+		"occursOn": ["Grassland","Plains","Light Forest"],
+		"uniques": ["Must be adjacent to [1] to [4] [Grassland] tiles"],
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Cloudsend",
+		"type": "NaturalWonder",
+		"happiness": 1,
+        "culture": 8,
+		"occursOn": ["Dense Forest","Mountain"],
+		"uniques": ["Must be adjacent to [1] to [6] [Dense Forest] tiles"],
+		"turnsInto": "Mountain",
+		"impassable": true,
+		"unbuildable": true,
+		"weight": 10
+	},
+    
+    	{
+		"name": "Friendly Neighborhood Witchhut",
+		"type": "NaturalWonder",
+		"science": 2,
+		"happiness": 8,
+		"occursOn": ["Grassland","Plains","Dense Forest", "Bright Forest", "Light Forest"],
+		"unbuildable": true,
+		"weight": 10
+	},
 
     // Natural Wonders 
 	/*{
@@ -355,22 +547,7 @@
 		"unbuildable": true,
 		"weight": 10
 	},
-	{
-		"name": "Old Faithful",
-		"type": "NaturalWonder",
-		"science": 2,
-		"happiness": 3,
-		"occursOn": ["Grassland","Plains","Tundra","Mountain"],
-		"uniques": ["Must be adjacent to [0] [Coast] tiles",
-			"Must be adjacent to [0] to [4] [Mountain] tiles",
-			"Must be adjacent to [3] to [6] [Elevated] tiles",
-			"Must be adjacent to [0] to [3] [Desert] tiles",
-			"Must be adjacent to [0] to [3] [Tundra] tiles"],
-		"turnsInto": "Mountain",
-		"impassable": true,
-		"unbuildable": true,
-		"weight": 10
-	},
+
 	{
 		"name": "El Dorado",
 		"type": "NaturalWonder",
