@@ -13,7 +13,7 @@
 		"name": "Wuvlets",
 		"leaderName": "Wittle Wuv",
 		"adjective": ["Wuvlian"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["Avoid [Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Wittle Wuv",
 
@@ -47,7 +47,7 @@
 		"name": "Dragon Domain",
 		"leaderName": "Versia",
 		"adjective": ["Draconic"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Light Forest]","[Dense Forest]","[Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Versia",
 
@@ -81,7 +81,7 @@
 		"name": "Everfree",
 		"leaderName": "Starlight",
 		"adjective": ["Ever"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["Avoid [Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Starlight",
 
@@ -115,7 +115,7 @@
 		"name": "The Deep Forest",
 		"leaderName": "Bask",
 		"adjective": ["Forest"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Dense Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Bask",
 
@@ -151,7 +151,7 @@
 		"name": "Techni",
 		"leaderName": "Lek",
 		"adjective": ["Tech"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Plains]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Lek",
 
@@ -185,7 +185,7 @@
 		"name": "Unity",
 		"leaderName": "Conquest",
 		"adjective": ["United"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["Avoid [Dense Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -219,7 +219,7 @@
 		"name": "Starra",
 		"leaderName": "Brame",
 		"adjective": ["Starran"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Grassland]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -254,7 +254,7 @@
 		"name": "Sanctuary",
 		"leaderName": "Dancer",
 		"adjective": ["Light"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -288,7 +288,7 @@
 		"name": "Genetica",
 		"leaderName": "Meeba",
 		"adjective": ["Genetic"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Light Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -322,7 +322,7 @@
 		"name": "Elava Coven",
 		"leaderName": "Witch",
 		"adjective": ["Elavan"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["Avoid [Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -356,7 +356,7 @@
 		"name": "Underworld",
 		"leaderName": "Ulta",
 		"adjective": ["Under"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["Avoid [Bright Forest]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -390,7 +390,7 @@
 		"name": "Aerie",
 		"leaderName": "Enu Skyfeather",
 		"adjective": ["Aerian"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Plains]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
@@ -424,7 +424,7 @@
 		"name": "Cult of Abyssal Power",
 		"leaderName": "Ish",
 		"adjective": ["Cultist"],
-		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
+		"startBias": ["[Lava]"],
 		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
