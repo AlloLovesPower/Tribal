@@ -1,6 +1,6 @@
 [
 	// Bonus resources
-	{
+/*	{
 		"name": "Cattle",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Grassland"],
@@ -9,7 +9,7 @@
 		"improvementStats": {"production": 1},
 		"uniques": ["Generated on every [18] tiles <in [{Featureless} {Grassland}] tiles>",
 					"Generated on every [22] tiles <in [{Featureless} {Grassland}] tiles> <in [Hill] Regions>"]
-	},
+	},*/
 	{
 		"name": "Sheep",
 		"resourceType": "Bonus",
@@ -19,7 +19,8 @@
 		"improvementStats": {"food": 1},
 		"uniques": ["Generated on every [13] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]>",
 					"Generated on every [10] tiles <in [Hill] tiles> <in tiles without [Forest]> <in tiles without [Jungle]> <in tiles without [Fresh Water]> <in [Hill] Regions>"]
-	},
+	}
+    /*
 	{
 		"name": "Deer",
 		"resourceType": "Bonus",
@@ -83,7 +84,7 @@
 		"improvement": "Camp",
 		"improvementStats": {"production": 1}
 	},
-	*/
+	
 
 	// Strategic resources
 	{
@@ -449,7 +450,7 @@
 					"Doesn't generate naturally <in [Jungle] tiles> <in tiles without [Hill]>",
 					"Doesn't generate naturally <in [Forest] tiles> <in tiles without [Hill]> <in tiles without [Tundra]>"]
 	},
-	/*
+	
 	{
 		"name": "Cocoa",
 		"resourceType": "Luxury",
@@ -458,7 +459,7 @@
 		"gold": 1,
 		"improvement": "Plantation"
 	},
-	*/
+	
 	{
 		"name": "Crab",
 		"resourceType": "Luxury",
@@ -507,5 +508,5 @@
 					"Generated near City States with weight [15]",
 					"Doesn't generate naturally <in [{Forest} {Hill}] tiles>",
 					"Doesn't generate naturally <in [{Tundra} {Forest}] tiles>"]
-	}
+	}*/
 ]

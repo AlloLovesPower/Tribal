@@ -201,6 +201,30 @@
 					"Every [39] tiles with this terrain will receive a major deposit of a strategic resource."],
 		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
 	},
+    /*	{
+		"name": "Old Forest",
+		"type": "TerrainFeature",
+		"production": 1,
+		"food": 2,
+		"movementCost": 2,
+		"overrideStats": true,
+		"unbuildable": true,
+		"defenceBonus": 0.25,
+		"occursOn": ["Tundra","Plains","Grassland","Hill"],
+		"uniques": ["Rough terrain", "Vegetation",
+					"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
+					"Blocks line-of-sight from tiles at same elevation",
+					"[25]% Chance to be destroyed by nukes",
+					"A Region is formed with at least [30]% [Old Forest] tiles, with priority [3]",
+					"A Region is formed with at least [35]% [Old Forest] tiles and [Forest] tiles, with priority [3]",
+					"A Region can not contain more [Forest] tiles than [Old Forest] tiles",
+					"Considered [Desirable] when determining start locations",
+					"Considered [Production] when determining start locations",
+					"Considered [Food] when determining start locations <in [Old Forest] Regions>",
+					"Considered [Food] when determining start locations <in [Tundra] Regions>",
+					"Every [29] tiles with this terrain will receive a major deposit of a strategic resource."],
+		"civilopediaText": [{"text":"A Camp can be built here without cutting it down", "link":"Improvement/Camp"}]
+	},*/
 	{
 		"name": "Jungle",
 		"type": "TerrainFeature",

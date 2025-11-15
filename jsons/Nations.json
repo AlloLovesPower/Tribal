@@ -48,7 +48,7 @@
 		"leaderName": "Versia",
 		"adjective": ["Draconic"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Versia",
 
 		"startIntroPart1": "meow",
@@ -82,7 +82,7 @@
 		"leaderName": "Starlight",
 		"adjective": ["Ever"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Starlight",
 
 		"startIntroPart1": "meow",
@@ -116,7 +116,7 @@
 		"leaderName": "Bask",
 		"adjective": ["Forest"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Bask",
 
 		"startIntroPart1": "meow",
@@ -152,7 +152,7 @@
 		"leaderName": "Lek",
 		"adjective": ["Tech"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Lek",
 
 		"startIntroPart1": "meow",
@@ -186,7 +186,7 @@
 		"leaderName": "Conquest",
 		"adjective": ["United"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -220,7 +220,7 @@
 		"leaderName": "Brame",
 		"adjective": ["Starran"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -255,7 +255,7 @@
 		"leaderName": "Dancer",
 		"adjective": ["Light"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -289,7 +289,7 @@
 		"leaderName": "Meeba",
 		"adjective": ["Genetic"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -323,7 +323,7 @@
 		"leaderName": "Witch",
 		"adjective": ["Elavan"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -357,7 +357,7 @@
 		"leaderName": "Ulta",
 		"adjective": ["Under"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -391,7 +391,7 @@
 		"leaderName": "Enu Skyfeather",
 		"adjective": ["Aerian"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -425,7 +425,7 @@
 		"leaderName": "Ish",
 		"adjective": ["Cultist"],
 		"startBias": ["Avoid [Tundra]", "Avoid [Desert]"],
-		"preferredVictoryType": "Culture",
+		"preferredVictoryType": "Cultural",
 		"personality": "Conquest",
 
 		"startIntroPart1": "meow",
@@ -458,9 +458,9 @@
 		"adjective": ["Ancient"],
 		"cityStateType": "AncientGrowth",
 
-		"declaringWar": "You shall stain this land no longer with your vileness! To arms, my countrymen - we ride to war!",
-		"attacked": "Traitorous man! The Celtic peoples will not stand for such wanton abuse and slander - I shall have your head!",
-		"defeated": "Vile ruler, know that you 'won' this war in name only!",
+		"declaringWar": "meow!",
+		"attacked": "dong!",
+		"defeated": "meow!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [0,102,102],
 		"cities": ["Onzarius"], //settler upon completing
