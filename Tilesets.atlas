@@ -704,13 +704,6 @@ TileSets/FantasyHex/Tiles/Grand Mesa
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Grassland
-  rotate: false
-  xy: 660, 726
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Grassland+Farm
   rotate: false
   xy: 700, 761
@@ -779,13 +772,6 @@ TileSets/FantasyHex/Tiles/Grassland+Jungle+Trading post
   xy: 820, 1158
   size: 32, 32
   orig: 32, 32
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/GrasslandForest
-  rotate: false
-  xy: 780, 1084
-  size: 32, 31
-  orig: 32, 31
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Great Barrier Reef
@@ -907,13 +893,6 @@ TileSets/FantasyHex/Tiles/Krakatoa
   orig: 32, 30
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lakes
-  rotate: false
-  xy: 616, 460
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Landmark
   rotate: false
   xy: 660, 646
@@ -977,23 +956,9 @@ TileSets/FantasyHex/Tiles/Mount Sinai
   orig: 32, 32
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mountain
-  rotate: false
-  xy: 900, 1061
-  size: 32, 36
-  orig: 32, 36
-  offset: 0, 0
-  index: -1
 TileSets/FantasyHex/Tiles/Oasis
   rotate: false
   xy: 940, 999
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Ocean
-  rotate: false
-  xy: 900, 917
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1036,13 +1001,6 @@ TileSets/FantasyHex/Tiles/Pasture
 TileSets/FantasyHex/Tiles/Pearls
   rotate: false
   xy: 940, 815
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Plains
-  rotate: false
-  xy: 940, 743
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -1204,13 +1162,6 @@ TileSets/FantasyHex/Tiles/Silk+Plantation
 TileSets/FantasyHex/Tiles/Silver
   rotate: false
   xy: 1060, 976
-  size: 32, 28
-  orig: 32, 28
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Snow
-  rotate: false
-  xy: 1060, 904
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -4638,13 +4589,6 @@ TileSets/HexaRealm/Tiles/Grand Mesa
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Grassland
-  rotate: false
-  xy: 440, 1769
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Grassland+Hill
   rotate: false
   xy: 361, 1641
@@ -4669,20 +4613,6 @@ TileSets/HexaRealm/Tiles/Grassland+Hill+Fallout2
 TileSets/HexaRealm/Tiles/Grassland+Hill2
   rotate: false
   xy: 433, 1705
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Grassland2
-  rotate: false
-  xy: 512, 1769
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Grassland3
-  rotate: false
-  xy: 361, 1705
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -4953,13 +4883,6 @@ TileSets/HexaRealm/Tiles/Krakatoa
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Lakes
-  rotate: false
-  xy: 1009, 1584
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Landmark
   rotate: false
   xy: 1009, 1375
@@ -5205,37 +5128,9 @@ TileSets/HexaRealm/Tiles/Mount Sinai
   orig: 64, 58
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Mountain
-  rotate: false
-  xy: 1945, 1239
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Mountain-1
-  rotate: false
-  xy: 1945, 1239
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Mountain2
-  rotate: false
-  xy: 1945, 1167
-  size: 64, 64
-  orig: 64, 64
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Oasis
   rotate: false
   xy: 1873, 1058
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Ocean
-  rotate: false
-  xy: 1945, 1039
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -5324,13 +5219,6 @@ TileSets/HexaRealm/Tiles/Pearls
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Plains
-  rotate: false
-  xy: 789, 1234
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Plains+Hill
   rotate: false
   xy: 1005, 1239
@@ -5355,20 +5243,6 @@ TileSets/HexaRealm/Tiles/Plains+Hill+Fallout2
 TileSets/HexaRealm/Tiles/Plains+Hill2
   rotate: false
   xy: 1077, 1257
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Plains2
-  rotate: false
-  xy: 861, 1248
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Plains3
-  rotate: false
-  xy: 933, 1247
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -5555,13 +5429,6 @@ TileSets/HexaRealm/Tiles/Silver
   orig: 64, 56
   offset: 0, 0
   index: -1
-TileSets/HexaRealm/Tiles/Snow
-  rotate: false
-  xy: 292, 115
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
 TileSets/HexaRealm/Tiles/Snow+Hill
   rotate: false
   xy: 364, 254
@@ -5586,20 +5453,6 @@ TileSets/HexaRealm/Tiles/Snow+Hill+Fallout2
 TileSets/HexaRealm/Tiles/Snow+Hill2
   rotate: false
   xy: 364, 190
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Snow2
-  rotate: false
-  xy: 292, 51
-  size: 64, 56
-  orig: 64, 56
-  offset: 0, 0
-  index: -1
-TileSets/HexaRealm/Tiles/Snow3
-  rotate: false
-  xy: 364, 318
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
@@ -7053,23 +6906,9 @@ TileSets/Minimal/Tiles/Jungle
   orig: 100, 100
   offset: 0, 0
   index: -1
-TileSets/Minimal/Tiles/Lakes
-  rotate: false
-  xy: 4, 800
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 TileSets/Minimal/Tiles/Marsh
   rotate: false
   xy: 112, 908
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-TileSets/Minimal/Tiles/Mountain
-  rotate: false
-  xy: 4, 692
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
