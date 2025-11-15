@@ -3,79 +3,65 @@ size: 2048, 109
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-TileSets/FantasyHex/Tiles/Snow
+TileSets/FantasyHex/Tiles/Mystic Glade
   rotate: false
   xy: 0, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Dense Forest
+TileSets/FantasyHex/Tiles/Sazzent
   rotate: false
   xy: 120, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lakes
+TileSets/FantasyHex/Tiles/Coru Crater
   rotate: false
   xy: 240, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Grassland
+TileSets/FantasyHex/Tiles/The Gate
   rotate: false
   xy: 360, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Light Forest
+TileSets/FantasyHex/Tiles/Sunlight Refuge
   rotate: false
   xy: 480, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Plains
+TileSets/FantasyHex/Tiles/Temple of Liska
   rotate: false
   xy: 600, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Ocean
+TileSets/FantasyHex/Tiles/Holy Sen
   rotate: false
   xy: 720, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Mountain
+TileSets/FantasyHex/Tiles/Cloudsend
   rotate: false
   xy: 840, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
   index: -1
-TileSets/FantasyHex/Tiles/Lagoon
+TileSets/FantasyHex/Tiles/Friendly Neighborhood Witchhut
   rotate: false
   xy: 960, 0
-  size: 120, 109
-  orig: 120, 109
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Lava
-  rotate: false
-  xy: 1080, 0
-  size: 120, 109
-  orig: 120, 109
-  offset: 0, 0
-  index: -1
-TileSets/FantasyHex/Tiles/Bright Forest
-  rotate: false
-  xy: 1200, 0
   size: 120, 109
   orig: 120, 109
   offset: 0, 0
