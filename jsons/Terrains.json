@@ -478,7 +478,7 @@
 		"happiness": 8,
 		"occursOn": ["Grassland","Plains"],
 		"uniques": ["Must be adjacent to [1] [Grassland] tiles",
-			"Must be adjacent to [2] to [4] [Plains] tiles",
+			"Must be adjacent to [2] to [4] [Plains] tiles"],
 		"unbuildable": true,
 		"weight": 10
 	},
